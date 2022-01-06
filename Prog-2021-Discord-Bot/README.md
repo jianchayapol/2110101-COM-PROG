@@ -1,5 +1,6 @@
-# 2110215 Programming Methodology 1
+Prog-2021 Discord Bot 
 
-### Chanathip and Chayapol
-
-### Ajarn Run
+Desc:
+```
+https://colab.research.google.com/drive/1NHA7NcVOf3IoksTZsMTXEoijijB_MgaZ#scrollTo=b3D9Qbvzn0yP
+```
